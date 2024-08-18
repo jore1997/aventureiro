@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/twd/images/8/89/AMC_Black_Hero_Logo-1200x707.jpg/revision/latest?cb=20171218013701&path-prefix=pt-br" goup-title="CANAIS FECHADOS",AMC
+https://abc.embedmax.site/amc/video.m3u8
